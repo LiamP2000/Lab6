@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.feelings{
+  font-size: 4em;
+}
+
+.feelings a{
+  text-decoration: none;
+  margin: 0.5em;
+}
