@@ -17,9 +17,18 @@ a {
 }
 
 .dropdown{
+  margin-top: 10px;
+
 
 }
 
+.updateScore{
+  margin-top: 10px;
+
+}
+.input{
+  margin-right: 10px;
+}
+
 .button{
-  margin-left: 10px;
 }
