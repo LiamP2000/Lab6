@@ -1,8 +1,24 @@
 extends layout
 
 block content
-  h1 how do you feel?
+  h1 How are your feeling?
   div.feelings 
     a.good(href="#") 🤩
     a.bad(href="#") 😕
   script(src='/javascripts/app.js')
+
+  h1 Choose team
+  Label.dropdown 
+   Select
+    option.manU Manchester United
+    option.manC Manchester City
+    option.liv Liverpool 
+    option.che Chelsea 
+    option.lei Leicester City
+
+  button.button Submit  
+
+
+
+      
+  
