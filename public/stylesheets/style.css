@@ -32,3 +32,27 @@ a {
 
 .button{
 }
+
+.table{
+  border:1px solid white;
+  background-color: #37003D;
+  color: white;
+}
+
+.header{
+  width: 80%;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+td{
+  text-align: center;
+}
+
+.body{
+  background-color: #78B833;
+}
+
+.h1Live{
+  color:white;
+}
